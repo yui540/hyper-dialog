@@ -1,0 +1,12 @@
+{
+  "name": "hyper-dialog",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "yui540 <tabletennis540@gmail.com> (https://yui540.graphics)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
